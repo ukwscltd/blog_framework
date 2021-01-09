@@ -1,5 +1,5 @@
 {
-  "name": "ukwscltd\\blog_framework",
+  "name": "ukwscltd/blog_framework",
   "description": "A Framework to get a blog site up and running quickly and securely, features a default white label template that can be extended using a cascading template system. Supports single articles, series, related, categories and tags",
   "authors": [
     {
