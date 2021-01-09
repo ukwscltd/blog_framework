@@ -1,0 +1,19 @@
+{
+  "name": "ukwscltd\\blog_framework",
+  "description": "A Framework to get a blog site up and running quickly and securely, features a default white label template that can be extended using a cascading template system. Supports single articles, series, related, categories and tags",
+  "authors": [
+    {
+      "name": "Nicholas Ashley",
+      "email": "info@ukwsc.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=7.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "ukwscltd\\blog_framework\\": "src/"
+    }
+  }
+}
